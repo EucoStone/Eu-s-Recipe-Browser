@@ -30,11 +30,10 @@ async function submit() {
       <div>
         <h2>导入 KubeJS 配方</h2>
         <p>
-          在游戏内执行 <code>/kubejs export</code>，然后选择
-          <code>local/kubejs/export/recipes</code> 文件夹，或一次选择其中的多个 JSON 文件。
+          在游戏内执行 <code>/kubejs export</code>，然后选择导出的 recipes 目录，或者一次选择其中的多个 JSON 文件。
         </p>
         <p class="hint">
-          不要使用 <code>/kubejs export recipes</code>。当前导出结构通常会按 mod 和配方类型分成多级文件夹。
+          当前导出结果通常会按 mod 和配方类别分成多级文件夹，直接选择导出的 recipes 目录即可。
         </p>
       </div>
     </div>
