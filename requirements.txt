@@ -1,0 +1,2 @@
+# RecipeBrowser backend runtime dependencies
+-r backend/requirements.txt

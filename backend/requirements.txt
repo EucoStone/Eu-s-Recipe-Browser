@@ -1,0 +1,10 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+motor==3.6.1
+pydantic==2.10.6
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+ijson==3.3.0
+orjson==3.10.15
+python-dotenv==1.0.1
+aiofiles==24.1.0
